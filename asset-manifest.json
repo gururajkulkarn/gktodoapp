@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gktodoapp/static/css/main.61a5c39e.css",
+    "main.js": "/gktodoapp/static/js/main.e6d411e1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gktodoapp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/todo.png": "/gktodoapp/static/media/todo.2c343e3e4f8dd9fd6b7c.png",
+    "index.html": "/gktodoapp/index.html",
+    "main.61a5c39e.css.map": "/gktodoapp/static/css/main.61a5c39e.css.map",
+    "main.e6d411e1.js.map": "/gktodoapp/static/js/main.e6d411e1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gktodoapp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61a5c39e.css",
+    "static/js/main.e6d411e1.js"
+  ]
+}
