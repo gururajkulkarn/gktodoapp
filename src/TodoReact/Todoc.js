@@ -90,7 +90,7 @@ const Todo = () => {
           <div className="addItems">
             <input
               type="text" maxLength={50}
-              placeholder="✍ "
+              placeholder="✍ADD YOUR TODO "
               
               value={inputdata} style={{color:"black",border:"2px solid black",fontSize:"30px",textTransform:"uppercase",}}
               onChange={(event) => setInputData(event.target.value)}
